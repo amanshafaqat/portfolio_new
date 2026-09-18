@@ -2,7 +2,7 @@
 
 Personal portfolio website showcasing my software engineering projects, technical skills, academic work, and practical experience.
 
-**Live portfolio:** https://amanshafaqat.dev
+
 
 ## About
 
