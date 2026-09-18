@@ -188,4 +188,3 @@ Personal information, photographs, branding, resume content, and other personal 
 - Email: amanshafaqt@gmail.com
 - LinkedIn: https://linkedin.com/in/amanshafaqat
 - GitHub: https://github.com/amanshafaqat
-- Portfolio: https://amanshafaqat.dev
